@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  ACR_NAME: contosotradersacr
+  ACR_NAME: contosotradersacr1
   AKS_CLUSTER_NAME: contoso-traders-aks
   AKS_CPU_LIMIT: 250m
   AKS_DNS_LABEL: contoso-traders-products
